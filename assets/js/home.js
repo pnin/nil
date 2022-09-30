@@ -15,7 +15,7 @@ $(document).ajaxComplete(function () {
             $(".reviews-button").addClass("reviews-button-disable");
 
             // social
-            $(".social-item").removeClass("social-item-active");
+            $(".link-item").removeClass("link-item-active");
             $(".links-button").addClass("links-button-disable");
 
             // about
@@ -36,7 +36,7 @@ $(document).ajaxComplete(function () {
 
             // social
             $(".links-button").addClass("links-button-disable");
-            $(".social-item").removeClass("social-item-active");
+            $(".link-item").removeClass("link-item-active");
 
             // about
             $(".about-button").addClass("about-button-disable");
@@ -55,7 +55,7 @@ $(document).ajaxComplete(function () {
             $(".review-item").addClass("review-item-active");
 
             // work
-            $(".social-item").removeClass("social-item-active");
+            $(".link-item").removeClass("link-item-active");
             $(".links-button").addClass("links-button-disable");
 
             // about
@@ -76,7 +76,7 @@ $(document).ajaxComplete(function () {
 
             // *
             $(".links-button").removeClass("links-button-disable");
-            $(".social-item").addClass("social-item-active");
+            $(".link-item").addClass("link-item-active");
 
             // about
             $(".about-button").addClass("about-button-disable");
@@ -103,7 +103,7 @@ $(document).ajaxComplete(function () {
         $(".reviews-button").addClass("reviews-button-disable");
 
         // social
-        $(".social-item").removeClass("social-item-active");
+        $(".link-item").removeClass("link-item-active");
         $(".links-button").addClass("links-button-disable");
 
         // about
@@ -124,7 +124,7 @@ $(document).ajaxComplete(function () {
 
         // social
         $(".links-button").addClass("links-button-disable");
-        $(".social-item").removeClass("social-item-active");
+        $(".link-item").removeClass("link-item-active");
 
         // about
         $(".about-button").addClass("about-button-disable");
@@ -143,7 +143,7 @@ $(document).ajaxComplete(function () {
         $(".review-item").addClass("review-item-active");
 
         // work
-        $(".social-item").removeClass("social-item-active");
+        $(".link-item").removeClass("link-item-active");
         $(".links-button").addClass("links-button-disable");
 
         // about
@@ -164,7 +164,7 @@ $(document).ajaxComplete(function () {
 
         // *
         $(".links-button").removeClass("links-button-disable");
-        $(".social-item").addClass("social-item-active");
+        $(".link-item").addClass("link-item-active");
 
         // about
         $(".about-button").addClass("about-button-disable");
